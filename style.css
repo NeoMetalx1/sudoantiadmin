@@ -275,3 +275,10 @@ body {
   margin-left: 680px;
   margin-top: 40px;
 }
+
+.description{
+  color: white;
+  font-size: 15px;
+  margin-left: 850px;
+  margin-top: 25px;
+}
