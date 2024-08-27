@@ -273,12 +273,18 @@ body {
   color: white;
   font-size: 75px;
   margin-left: 680px;
-  margin-top: 40px;
+  margin-top: 15px;
 }
 
 .description{
   color: white;
   font-size: 15px;
   margin-left: 850px;
+  margin-top: 25px;
+}
+
+.command{
+  color: white;
+  margin-left: 778px;
   margin-top: 25px;
 }
